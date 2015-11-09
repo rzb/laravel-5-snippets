@@ -3,6 +3,6 @@
 @elseif (${1:\$condition})
 ]]></content>
     <tabTrigger>@elseif</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, source.html, text.html</scope>
     <description>Blade @elseif</description>
 </snippet>

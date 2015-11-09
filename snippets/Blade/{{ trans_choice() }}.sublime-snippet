@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{{ trans_choice(${1:'file.string'}, ${2:\$count}) }}
+]]></content>
+    <tabTrigger>trans_choice</tabTrigger>
+    <scope>source.php, source.html, text.html</scope>
+    <description>Translate a given language line with additional plural choice.</description>
+</snippet>

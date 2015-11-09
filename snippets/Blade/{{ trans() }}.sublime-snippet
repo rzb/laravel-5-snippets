@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{{ trans(${1:'file.string'}) }}
+]]></content>
+    <tabTrigger>trans</tabTrigger>
+    <scope>source.php, source.html, text.html</scope>
+    <description>Translate a given language line. Alias of Lang::get.</description>
+</snippet>

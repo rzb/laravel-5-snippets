@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+@can('${1:ability}', ${2:\$object})
+	${3}
+@endcan
+]]></content>
+	<tabTrigger>@can</tabTrigger>
+	<scope>source.php, source.html, text.html</scope>
+	<description>Blade @can</description>
+</snippet>

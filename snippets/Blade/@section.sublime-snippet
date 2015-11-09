@@ -5,6 +5,6 @@
 @stop
 ]]></content>
     <tabTrigger>@section</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, source.html, text.html</scope>
     <description>Blade @section</description>
 </snippet>

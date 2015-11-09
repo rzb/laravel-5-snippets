@@ -7,6 +7,6 @@
 @endforelse
 ]]></content>
     <tabTrigger>@forelse</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, source.html, text.html</scope>
     <description>Blade @forelse</description>
 </snippet>

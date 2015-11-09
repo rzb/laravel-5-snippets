@@ -13,6 +13,6 @@
 @stop
 ]]></content>
     <tabTrigger>@layout</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, source.html, text.html</scope>
     <description>Blade template skeleton</description>
 </snippet>
